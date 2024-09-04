@@ -75,6 +75,12 @@ nav img{
   .text-light{
     color:#f4f4f4;
   }
+  .install{
+    text-decoration: none;
+    font-size: 14px;
+    color: #554cd1;
+    font-weight: 600;
+  }
   /* Footer Styles */
 
 footer {

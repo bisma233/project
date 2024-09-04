@@ -4,7 +4,7 @@
 }
 
 .carousel-item img{
-  height: 620px;
+  height: 500px;
 }
 .container{
     max-width: 1200px;
