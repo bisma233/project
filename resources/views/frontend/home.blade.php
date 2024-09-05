@@ -52,6 +52,7 @@
   <div class="floating-buttons">
     <a href="{{ route('calculator') }}" class="floating-button">Calculator</a>
     <a href="{{ route('contact-us') }}"class="floating-button">Contact Us</a>
+    <a href="{{ route('install-a-system') }}"class="floating-button">Install a system</a>
 </div>
 
   <!-- ---------About Section ------------>
